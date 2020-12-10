@@ -1,0 +1,29 @@
+{
+    "TestPike": {
+        "name": "Test Pike",
+        "category": "Weapons",
+        "subcategory": "Pike",
+        "description": "A two-handed item equipable as a Pike.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Pike": {
+        "name": " Aged Pike",
+        "category": "Weapons",
+        "subcategory": "Partisan",
+        "description": "An aged two-handed Pike now known to be used by Vanguards and passed down through generations. Stabbing through groups of enemies and throwing is surpringly easy with this.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 180,
+        "rangeatk": 150,
+        "coreaffix": "Basic"
+    }
+}

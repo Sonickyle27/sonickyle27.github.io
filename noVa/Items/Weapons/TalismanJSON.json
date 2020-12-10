@@ -1,0 +1,29 @@
+{
+    "TestTalisman": {
+        "name": "Test Talisman",
+        "category": "Weapons",
+        "subcategory": "Talisman",
+        "description": "A two-handed item equipable as a Talisman.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Talisman": {
+        "name": "Talisman",
+        "category": "Weapons",
+        "subcategory": "Talisman",
+        "description": "A standard issue two-handed Talisman given to all new Mage Beta Union members. Magic can be cast from these throwable cards, allowing close-range magic to be cast from afar.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "rangeatk": 30,
+        "magicatk": 190,
+        "coreaffix": "Basic"
+    }
+}

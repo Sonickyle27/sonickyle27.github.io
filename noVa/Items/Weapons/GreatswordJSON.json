@@ -1,0 +1,38 @@
+{
+    "TestGreatsword": {
+        "name": "Test Greatsword",
+        "category": "Weapons",
+        "subcategory": "Greatsword",
+        "description": "A two-handed item equipable as a Greatsword.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Greatsword": {
+        "name": "Greatsword",
+        "category": "Weapons",
+        "subcategory": "Greatsword",
+        "description": "A standard issue two-handed Greatsword given to all new Knight Beta Union members. The high attack power and blocking capibility make up for its slow swing.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 250,
+        "coreaffix": "Basic"
+    },
+    "RedcliffGreatsword": {
+        "name": "Redcliff Greatsword",
+        "category": "Weapons",
+        "subcategory": "Greatsword",
+        "description": "A Greatsword named after some legendary knights from another world. The Greatsword's power grows with its user.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 270,
+        "coreaffix": "Legendary Past"
+    }
+}

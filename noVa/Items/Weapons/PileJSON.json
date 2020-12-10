@@ -1,0 +1,29 @@
+{
+    "TestPile": {
+        "name": "Test Pile",
+        "category": "Weapons",
+        "subcategory": "Pile",
+        "description": "A two-handed item equipable as a Pile.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Pile": {
+        "name": "Pile",
+        "category": "Weapons",
+        "subcategory": "Pile",
+        "description": "A standard issue two-handed Pile given to Vanguards. This modified Launcher fires shards that can explode on demand. It also has a blade attached at the front for melee combat.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 200,
+        "rangeatk": 200,
+        "coreaffix": "Basic"
+    }
+}

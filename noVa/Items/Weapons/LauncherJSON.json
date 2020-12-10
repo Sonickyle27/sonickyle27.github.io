@@ -1,0 +1,28 @@
+{
+    "TestLauncher": {
+        "name": "Test Launcher",
+        "category": "Weapons",
+        "subcategory": "Launcher",
+        "description": "A two-handed item equipable as a Launcher.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Launcher": {
+        "name": "Launcher",
+        "category": "Weapons",
+        "subcategory": "Launcher",
+        "description": "A standard issue two-handed Launcher given to all new Slinger Beta Union members. This fires heavy-duty shells that explode on contact. The shells take time to fire.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "rangeatk": 250,
+        "coreaffix": "Basic"
+    }
+}

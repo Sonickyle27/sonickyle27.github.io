@@ -1,0 +1,16 @@
+{
+    "Initus_1": {
+        "name": "Point of Origin",
+        "questslot": 0,
+        "maxplayers": 1,
+        "map": null,
+        "description": "Initus, a city of aspirations, is again under attack from the Corruptors. Beta Union members are instructed to sortie and wipe out any trace of the Corruptors in the residential area."
+    },
+    "Initus_2": {
+        "name": "Jumping Gaps",
+        "questslot": 1,
+        "maxplayers": 4,
+        "map": null,
+        "description": "The Corruptors' attacks have taken out a major bridge in Initus, essentially splitting the city in two. Civilians have also been spotted hanging on part of the broken bridge. Beta Union members are instructed to rush to the bridge and rescue the civilians."
+    }
+}

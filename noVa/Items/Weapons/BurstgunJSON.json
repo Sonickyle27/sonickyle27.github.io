@@ -1,0 +1,28 @@
+{
+    "TestBurstgun": {
+        "name": "Test Burstgun",
+        "category": "Weapons",
+        "subcategory": "Burstgun",
+        "description": "A two-handed item equipable as a Burstgun.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Burstgun": {
+        "name": "Burstgun",
+        "category": "Weapons",
+        "subcategory": "Burstgun",
+        "description": "A standard-issue two-handed Burstgun given to all new Slinger Beta Union members. Burstguns are short ranged shotguns that can deal a lot of damage from their energy blasts.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "rangeatk": 250,
+        "coreaffix": "Basic"
+    }
+}

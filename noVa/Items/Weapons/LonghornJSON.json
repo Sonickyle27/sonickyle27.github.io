@@ -1,0 +1,28 @@
+{
+    "TestLonghorn": {
+        "name": "Test Longhorn",
+        "category": "Weapons",
+        "subcategory": "Longhorn",
+        "description": "A two-handed item equipable as a Longhorn.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Longhorn": {
+        "name": "Aged Longhorn",
+        "category": "Weapons",
+        "subcategory": "Longhorn",
+        "description": "An aged two-handed Longhorn known to be used by Sonnetists and passed down through generations. Sound waves have high accuracy, homing properties, and the ability to be imbued with elements.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "magicatk": 200,
+        "coreaffix": "Basic"
+    }
+}

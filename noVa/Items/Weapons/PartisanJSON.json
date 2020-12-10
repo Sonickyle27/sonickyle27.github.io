@@ -1,0 +1,28 @@
+{
+    "TestPartisan": {
+        "name": "Test Partisan",
+        "category": "Weapons",
+        "subcategory": "Partisan",
+        "description": "A two-handed item equipable as a Partisan.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Partisan": {
+        "name": "Partisan",
+        "category": "Weapons",
+        "subcategory": "Partisan",
+        "description": "A standard issue two-handed Partisan given to all new Knight Beta Union members. The quick slashing and stabbing attacks are effective aganist single eneimes.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 200,
+        "coreaffix": "Basic"
+    }
+}

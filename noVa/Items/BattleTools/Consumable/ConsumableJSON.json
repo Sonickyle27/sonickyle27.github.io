@@ -1,0 +1,79 @@
+{
+    "Monoheal": {
+        "name": "Monoheal",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "A basic healing device that restores 15% of the user's health. Due to it being made with cheap ingredients, the healing potency is quite low.",
+        "storeprice": 50,
+        "effect": "selfheal",
+        "potency": 15,
+        "range": 0,
+        "maxstack": 10
+    },
+    "Diheal": {
+        "name": "Diheal",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "A healing device that restores 35% of the user's health. Its healing potency is higher than a Monoheal thanks to the higher-quality ingredients.",
+        "storeprice": 150,
+        "effect": "selfheal",
+        "potency": 35,
+        "range": 0,
+        "maxstack": 10
+    },
+    "Triheal": {
+        "name": "Triheal",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "A potent healing device that restores 65% of the user's health. The rarer yet potent ingredients make this quite expensive.",
+        "storeprice": 500,
+        "effect": "selfheal",
+        "potency": 65,
+        "range": 0,
+        "maxstack": 10
+    },
+    "Ultiheal": {
+        "name": "Ultiheal",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "The ultimate healing device. This restores 100% of the user's health, but is extremely rare and takes up a large amount of inventory space.",
+        "storeprice": 5000,
+        "effect": "selfheal",
+        "potency": 100,
+        "range": 0,
+        "maxstack": 3
+    },
+    "Nullifier": {
+        "name": "Nullifier",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "An area-of-effect status aliment healing item. Removes the status aliments of any Beta Union members in the 25 Stud area.",
+        "storeprice": 200,
+        "effect": "aoenullifier",
+        "potency": 100,
+        "range": 25,
+        "maxstack": 10
+    },
+    "Healifier": {
+        "name": "Healifier",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "An area-of-effect healing item that restores the health of any Beta Union members in the 20 Stud area by 50%.",
+        "storeprice": 500,
+        "effect": "aoehealifier",
+        "potency": 100,
+        "range": 20,
+        "maxstack": 5
+    },
+    "Revivafier": {
+        "name": "Revivafier",
+        "category": "BattleTools",
+        "subcategory": "Consumable",
+        "description": "An area-of-effect reviving item that revives any knocked-out Beta Union members in the 20 Stud area.",
+        "storeprice": 1000,
+        "effect": "aoerevivafier",
+        "potency": 100,
+        "range": 20,
+        "maxstack": 5
+    }
+}

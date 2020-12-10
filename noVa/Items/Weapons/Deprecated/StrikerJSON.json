@@ -1,0 +1,18 @@
+{
+    "Striker": {
+        "name": "Striker",
+        "category": "Weapons",
+        "subcategory": "Striker",
+        "description": "A basic Striker given to all new Mage Beta Union members. Element Explosions cause additional magic damage on melee strikes from this magical hammer.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 150,
+        "rangeatk": 0,
+        "magicatk": 180,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "TestGreatshield": {
+        "name": "Test Greatshield",
+        "category": "Weapons",
+        "subcategory": "Greatshield",
+        "description": "A two-handed item equipable as a Greatshield.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Greatshield": {
+        "name": "Greatshield",
+        "category": "Weapons",
+        "subcategory": "Greatshield",
+        "description": "A special two-handed weapon for Counterguards. Sacrifices offence for absolute defense. This giant shield is a weapon itself.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 150,
+        "strikedef": 100,
+        "rangedef": 100,
+        "magicdef": 100,
+        "coreaffix": "Basic"
+    }
+}

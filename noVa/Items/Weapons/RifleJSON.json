@@ -1,0 +1,27 @@
+{
+    "TestRifle": {
+        "name": "Test Rifle",
+        "category": "Weapons",
+        "subcategory": "Rifle",
+        "description": "A two-handed item equipable as a Rifle.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    "Rifle": {
+        "name": "Rifle",
+        "category": "Weapons",
+        "subcategory": "Rifle",
+        "description": "A standard issue two-handed Rifle given to all new Slinger Beta Union members. This rapid fire gun allows for long-range attacks that'll often hit their mark.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "rangeatk": 200,
+        "coreaffix": "Basic"
+    }
+}

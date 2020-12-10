@@ -1,0 +1,28 @@
+{
+    "TestTuba": {
+        "name": "Test Tuba",
+        "category": "Weapons",
+        "subcategory": "Tuba",
+        "description": "A two-handed item equipable as a Tuba.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Tuba": {
+        "name": "Aged Tuba",
+        "category": "Weapons",
+        "subcategory": "Tuba",
+        "description": "An aged two-handed Tuba known to be used by Sonnetists and passed down through generations. Tubas can quickly spread physical, damaging sound waves that bounce around and scatter carnage.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "magicatk": 170,
+        "coreaffix": "Basic"
+    }
+}

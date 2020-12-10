@@ -1,0 +1,28 @@
+{
+    "TestGreatsword": {
+        "name": "Test Bullet Bow",
+        "category": "Weapons",
+        "subcategory": "BulletBow",
+        "description": "A two-handed item equipable as a Bullet Bow.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "BulletBow": {
+        "name": "Aged Bullet Bow",
+        "category": "Weapons",
+        "subcategory": "BulletBow",
+        "description": "An aged two-handed Bullet Bow known to be used by Vanguards and passed down through generations. Fire energy arrows in rapid sucession with reduced accuracy, or draw the bowstring back for increased range and power.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "rangeatk": 150,
+        "coreaffix": "Basic"
+    }
+}

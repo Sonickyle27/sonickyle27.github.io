@@ -1,0 +1,18 @@
+{
+    "Chain": {
+        "name": "Chains",
+        "category": "Weapons",
+        "subcategory": "Chain",
+        "description": "Basic Chains given to all new Knight Beta Union members. Chains are claws that are swinged around using attached chains. The claws can be used to grab enemies as well.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 200,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    }
+}

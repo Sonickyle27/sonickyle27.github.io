@@ -1,0 +1,18 @@
+{
+    "Gunblade": {
+        "name": "Gunblade",
+        "category": "Weapons",
+        "subcategory": "Gunblade",
+        "description": "A all-class basic Gunblade given to all new Beta Union members. With a press of a button, the Gunblade changes from melee blade mode to ranged bullet mode.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 150,
+        "rangeatk": 150,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    }
+}

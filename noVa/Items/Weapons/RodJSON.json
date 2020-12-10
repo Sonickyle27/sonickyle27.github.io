@@ -1,0 +1,29 @@
+{
+    "TestTuba": {
+        "name": "Test Rod",
+        "category": "Weapons",
+        "subcategory": "Rod",
+        "description": "A two-handed item equipable as a Rod.",
+        "storeprice": 0,
+        "effect": "weapon",
+        "strikeatk": 0,
+        "rangeatk": 0,
+        "magicatk": 0,
+        "strikedef": 0,
+        "rangedef": 0,
+        "magicdef": 0,
+        "coreaffix": "Basic",
+        "extraaffix": null
+    },
+    "Rod": {
+        "name": "Aged Rod",
+        "category": "Weapons",
+        "subcategory": "Rod",
+        "description": "A standard issue two-handed Rod Staff given to all new Mage Beta Union members. Boosts the user\'s magic capibilities, and allows the user to store magic spells for later casting.",
+        "storeprice": 500,
+        "effect": "weapon",
+        "strikeatk": 80,
+        "magicatk": 200,
+        "coreaffix": "Basic"
+    }
+}
